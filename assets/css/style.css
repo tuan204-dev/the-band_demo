@@ -220,7 +220,7 @@ Những thứ cần làm
   margin-top: 46px;
   /* padding chiều cao bằng 50% chiều ngang của thẻ chứa nó */
   padding-top: 50%;
-  background-image: url("/assets/img/slider/slider1.jpg");
+  background-image: "../assets/img/slider/slider1.jpg";
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
