@@ -68,6 +68,11 @@
         display: inline-block;
     }
 
+    /* Slider */
+    #slider .text-content {
+        display: none;
+    }
+
     /* Content */
 
     /* Band */
